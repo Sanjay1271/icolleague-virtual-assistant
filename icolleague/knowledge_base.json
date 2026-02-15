@@ -1,0 +1,9 @@
+{
+  "questions": [
+    { "question": "leave", "answer": "Employees have 12 casual leaves per year." },
+    { "question": "working hours", "answer": "Working hours are 9 AM to 5 PM." },
+    { "question": "hr", "answer": "HR Email: hr@company.com" },
+    { "question": "it", "answer": "IT Support Email: it@company.com" },
+    { "question": "holiday", "answer": "Company holidays follow government calendar." }
+  ]
+}
